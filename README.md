@@ -16,3 +16,4 @@ Since 2020 I have been involved with Practable.io Remote Labs experiments, doing
 
 ## Social Links
 - [Pan Galactic Tech - Github](https://github.com/PanGalacticTech)
+- [Pan Galactic Tech - Website & Store](https://PanGalacticTech.com)
