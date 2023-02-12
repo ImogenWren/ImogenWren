@@ -1,7 +1,5 @@
 # Imogen Wren H.
-
 ![image](https://user-images.githubusercontent.com/97303986/217541153-bb81dce7-f75b-4812-b71a-0afd2077692d.png)
-
 
 
 This github is mostly used for my proffessional work, for projects I work on in my own time, please see:
@@ -9,11 +7,14 @@ This github is mostly used for my proffessional work, for projects I work on in 
 - [Imogen Wren Studios -  Github](https://github.com/imogen-wren-studios) - Analog & Digital Audio, Lighting & Artistic Projects 
 
 ## About Me
+- Name: Imogen Wren. <br>
+- Pronouns: She/Her. <br>
+
 I am an an Embedded Systems developer who works in the Educational Sector. My work is often focussed on simplifying and communicating embedded engineering concepts in ways that I hope approachable to people with varying amounts of experience in embedded system development. I have an interest in Computer Aided Design and Additive Manufacturing and have experience in bringing projects from design phase through to implementation. 
 
 
 ## Professional Contributions
-Since 2022 I have been involved with Practable.io Remote Labs experiments, doing PCB & circuit design along with embedded systems development for testing, mostly within the Arduino platform. 
+Since 2022 I have been employed as the Specialist Technical Officer for Embedded Systems & Industrial Automation at the School of Engineering, The University of Edinburgh, where I consult on embedded systems projects and develop automation solutions in LabVIEW. I am involved with Practable.io Remote Labs experiments, doing PCB & circuit design along with embedded systems development, mostly within the Arduino platform. 
 
 ## Most Used Languages
 - C++
