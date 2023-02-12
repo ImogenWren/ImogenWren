@@ -27,11 +27,11 @@ Since 2022 I have been involved with Practable.io Remote Labs experiments, doing
 - AutoDesk Fusion
 
 ## Outside Interests
-- I Design & Build Guitar FX Stompboxes under the name Imogen Wren Studios (Formally Pan Galactic Fx)
+- I Design & Build Guitar FX Stompboxes under the name [Imogen Wren Studios](github.com/Imogen-Wren-Studios)(Formally Pan Galactic Fx)
 - I host my tech blog where I discuss arduino development, 3D CAD work and my interest in spaceflight [Pan Galactic Tech](https://PanGalacticTech.com)
 - I play Bass for the Riot Girl Punk Band Dear Srrrz, we have just recorded our first songs towards an EP which we hope to release this year!
 
 ## Social Links
 - [Pan Galactic Tech - Github](https://github.com/PanGalacticTech)
-- [Imogen-Wren-Studios - Github](github.com/Imogen-Wren_Studios)
+- [Imogen Wren Studios - Github](github.com/Imogen-Wren-Studios)
 - [Pan Galactic Tech - Website & Store](https://PanGalacticTech.com)
