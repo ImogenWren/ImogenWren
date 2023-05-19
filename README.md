@@ -1,5 +1,7 @@
 # Imogen Wren H.
-![image](https://user-images.githubusercontent.com/97303986/219247000-73f04fbc-c211-4d27-b16b-3aa29c612e1f.png)
+![image](https://github.com/ImogenWren/ImogenWren/assets/97303986/6bad2a31-ee46-4097-894f-9f62c6927b8e)
+
+
 
 
 This github is mostly used for my proffessional work, for projects I work on in my own time, please see:
@@ -36,3 +38,4 @@ Since 2022 I have been employed as the Specialist Technical Officer for Embedded
 - [Pan Galactic Tech - Github](https://github.com/PanGalacticTech)
 - [Imogen Wren Studios - Github](github.com/Imogen-Wren-Studios)
 - [Pan Galactic Tech - Website & Store](https://PanGalacticTech.com)
+![image](https://user-images.githubusercontent.com/97303986/219247000-73f04fbc-c211-4d27-b16b-3aa29c612e1f.png)
