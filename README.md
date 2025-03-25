@@ -6,7 +6,7 @@
 
 This github is mostly used for my proffessional work, for projects I work on in my own time, please see:
 - [Pan Galactic Tech - Github](https://github.com/PanGalacticTech) - Education, Embedded Systems and Maker Community Content 
-- [Imogen Wren Studios -  Github](https://github.com/imogen-wren-studios) - Analog & Digital Audio, Lighting & Artistic Projects 
+- [Low Poly Studio -  Github](https://github.com/low-poly-studio) - Analog & Digital Audio, Lighting, 3D design & Artistic Projects 
 
 ## About Me
 - Name: Imogen Wren. <br>
@@ -30,12 +30,12 @@ Since 2022 I have been employed as the Specialist Technical Officer for Embedded
 - AutoDesk Fusion
 
 ## Outside Interests
-- I Design & Build Guitar FX Stompboxes under the name [Imogen Wren Studios](github.com/Imogen-Wren-Studios)(Formally Pan Galactic Fx)
+- I Design & Build Guitar FX Stompboxes, Synths and other interesting products under the name [Low Poly Studio](https://github.com/low-poly-studio)
 - I host my tech blog where I discuss arduino development, 3D CAD work and my interest in spaceflight [Pan Galactic Tech](https://PanGalacticTech.com)
-- I play Bass for the Riot Girl Punk Band Dear Srrrz, we have just recorded our first songs towards an EP which we hope to release this year!
+- I play Drums, Bass & Guitar with several named and unnamed outfits in the thriving Edinburgh music scene!
 
 ## Social Links
 - [Pan Galactic Tech - Github](https://github.com/PanGalacticTech)
-- [Imogen Wren Studios - Github](github.com/Imogen-Wren-Studios)
+- [Low Poly Studio - Github](https://github.com/low-poly-studio)
 - [Pan Galactic Tech - Website & Store](https://PanGalacticTech.com)
 ![image](https://user-images.githubusercontent.com/97303986/219247000-73f04fbc-c211-4d27-b16b-3aa29c612e1f.png)
